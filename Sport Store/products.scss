@@ -1,0 +1,22 @@
+.all-products {
+    select {
+        border: 1px solid #ff523b;
+        padding: 5px;
+        margin: 10px;
+        outline: none;
+    }
+    .page-btn {
+        margin: 28px 0px;
+        span {
+            border: 1px solid #ff523b;
+            text-align: center;
+            padding: 5px 15px;
+            margin-left: 5px;
+            cursor: pointer;
+            &:hover {
+                background: #ff523b;
+                color: #fff;
+            }
+        }
+    }
+}

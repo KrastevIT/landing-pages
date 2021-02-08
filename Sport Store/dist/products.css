@@ -1,0 +1,20 @@
+.all-products select {
+  border: 1px solid #ff523b;
+  padding: 5px;
+  margin: 10px;
+  outline: none;
+}
+.all-products .page-btn {
+  margin: 28px 0px;
+}
+.all-products .page-btn span {
+  border: 1px solid #ff523b;
+  text-align: center;
+  padding: 5px 15px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.all-products .page-btn span:hover {
+  background: #ff523b;
+  color: #fff;
+}
